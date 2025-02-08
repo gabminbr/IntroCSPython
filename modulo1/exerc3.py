@@ -4,4 +4,4 @@ mes_vencimento = input("Digite o mês de vencimento: ")
 valor_fatura = input("Digite o valor da fatura: ")
 
 print(f"Olá, {nome_cliente}")
-print(f"A sua fatura com vencimento em {dia_vencimento} de {mes_vencimento} no valor de R$ {valor_fatura} está fechada")
+print(f"A sua fatura com vencimento em {dia_vencimento} de {mes_vencimento} no valor de R$ {valor_fatura} está fechada.")
